@@ -22,10 +22,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/DeborahCampos2017/Formulario.git>
+$ git clone <https://github.com/DeborahCampos2017/Bateria.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Formulario
+$ cd bateria
 
 # Instale as dependências
 $ npm install
@@ -47,3 +47,5 @@ Feito com ❤️ por Deborah Campos 👋🏽 Entre em contato!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/deborahscampos/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:campos.deborahsousa@gmail.com)
+
+
