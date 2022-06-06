@@ -20,20 +20,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-```bash
-# Clone este repositório
-$ git clone <https://github.com/DeborahCampos2017/Bateria.git>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd bateria
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação para abrir no editor de código
-$ code .
-
-
 ### Autor
 ---
 
