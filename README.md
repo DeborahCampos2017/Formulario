@@ -20,8 +20,20 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+# Clone este repositório
+$ git clone <https://github.com/DeborahCampos2017/Formulario.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd bateria
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação para abrir no editor de código
+$ code .
+
+
 ### Autor
----
 
 <a href="https://github.com/DeborahCampos2017">
  <img style="border-radius: 50%;" src="https://github.com/DeborahCampos2017/page-pinterest/blob/main/Foto%20de%20perfil%20-%20Deborah.jpg" width="100px;" alt=""/>
@@ -33,5 +45,3 @@ Feito com ❤️ por Deborah Campos 👋🏽 Entre em contato!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/deborahscampos/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:campos.deborahsousa@gmail.com)
-
-
