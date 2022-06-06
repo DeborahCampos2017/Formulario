@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+<h1 align="center">Formulário de Inscrição</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Projeto desenvolvido com React, Typescript, formik para o formulário, yup para as validações do formulário e material ui para responsividade</p>
 
-## Available Scripts
+<h3>Sobre</h3>
+<p>Formulário de Inscrição <p/>
+<h3> 🛠 Tecnologias Utilizadas</h3>
+<li>JavaScript</li>
+<li>Typescript</li>
+<li>Formik</li>
+<li>material ui</li>
 
-In the project directory, you can run:
+<h1>Demonstração da aplicação</h1>
 
-### `npm start`
+![formulario](https://github.com/DeborahCampos2017/Formulario/blob/main/projeto-formulario.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Pré-requisitos
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### `npm test`
+```bash
+# Clone este repositório
+$ git clone <https://github.com/DeborahCampos2017/Formulario.git>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Formulario
 
-### `npm run build`
+# Instale as dependências
+$ npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Execute a aplicação para abrir no editor de código
+$ code .
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Autor
+---
 
-### `npm run eject`
+<a href="https://github.com/DeborahCampos2017">
+ <img style="border-radius: 50%;" src="https://github.com/DeborahCampos2017/page-pinterest/blob/main/Foto%20de%20perfil%20-%20Deborah.jpg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Deborah Campos</b></sub></a> <a href="https://github.com/DeborahCampos2017"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Feito com ❤️ por Deborah Campos 👋🏽 Entre em contato!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+ [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/deborahscampos/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:campos.deborahsousa@gmail.com)
